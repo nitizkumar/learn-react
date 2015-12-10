@@ -1,4 +1,5 @@
-A simple hello world program with react+webpack+babel6+hotDeployment
+A simple hello world program with react+webpack+babel6+ES6
+This project supports hot deployment of JS/JSX files
 
 Please make sure your npm version is the latest. At the time of developing the codebase, the NPM version on Ubuntu was: 3.3.12
 
