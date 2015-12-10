@@ -1,3 +1,13 @@
+# Dependency directory
 node_modules
 dist
-coverage/
+
+# Logs
+logs
+*.log
+
+# Directory for coverage reports generated for unit/integration testing
+lib-cov
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
