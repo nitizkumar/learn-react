@@ -1,16 +1,14 @@
-A simple hello world program with react+webpack+babel6+ES6
-This project supports hot deployment of JS files
+A continuation from 001-gettingStarted, this is next in the series of learning react.
+This is mostly based on component based development. It is very important to understand component based development while starting with react. This repo has a small example of component based development.
 
-Please make sure your npm version is the latest. At the time of developing the codebase, the NPM version on Ubuntu was: 3.3.12
+Recommended read: 
 
-Please follow the below steps to get the project running:
+1) http://facebook.github.io/react/docs/thinking-in-react.html
+2) http://facebook.github.io/react/docs/interactivity-and-dynamic-uis.html
 
-npm install webpack --global
-npm install webpack-dev-server --global
-(Please run the above commands with admin privilege)
+To run the project, please execute the following commands:
 
 npm install
 npm start
 
-It will be accessible on "localhost:8080"
-
+The project can be accessed at localhost:8080
